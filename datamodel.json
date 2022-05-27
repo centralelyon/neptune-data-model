@@ -1,0 +1,28 @@
+{
+	"competitions": {
+		"Championnats France": "CF", 
+		"Jeux Olympiques": "JO", 
+		"Championnats Europe":"CE", 
+		"Championnats France Juniors": "CJ", 
+		"Golden Tour": "GT", 
+		"Championnats du monde":"CM", 
+		"Trophée":"TR", 
+		"USA Swimming Championships": "NS", 
+		"OPEN Meeting National": "OP"
+	}, 
+	"nages": {
+		"4 Nages": "4nages", 
+		"Nage Libre": "freestyle", 
+		"Brasse": "brasse", 
+		"Dos": "dos", 
+		"Papillon": "papillon"
+	},
+	"sexes": {
+		"Dames": "dames", 
+		"Messieurs": "hommes"
+	},
+	"courses": {
+		"Séries": "séries",
+		"Finale": "finale"
+	}
+}
