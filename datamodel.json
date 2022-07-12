@@ -18,13 +18,15 @@
 		"Brasse": "brasse", 
 		"Dos": "dos", 
 		"Papillon": "papillon"
-	},
+	}, 
 	"sexes": {
 		"Dames": "dames", 
 		"Messieurs": "hommes"
-	},
+	}, 
 	"courses": {
-		"Séries": "series",
+		"Séries": "series", 
+		"Séries lentes": "seriesLentes", 
+		"Série rapide": "serieRapide", 
 		"Finale": "finale"
 	}
 }
