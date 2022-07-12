@@ -21,6 +21,7 @@
 	}, 
 	"sexes": {
 		"Dames": "dames", 
+		"Mixte": "mixte", 
 		"Messieurs": "hommes"
 	}, 
 	"courses": {
